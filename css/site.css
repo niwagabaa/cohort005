@@ -1,0 +1,30 @@
+body{
+    background-color: honeydew;
+}
+h1 {
+    font-stretch: extra-condensed;
+}
+.green_one {
+    color:green;
+    background-color: grey;
+    font-style: oblique;
+
+}
+
+.orange_one{
+    align-content: center;
+    color: orange;
+}
+
+#secondp {
+    font-weight: 300;
+    color:indigo;
+}
+h1 {
+    color:red;
+}
+p {
+    background-color: grey;
+    color: yellow;
+    font-style: oblique;
+}
